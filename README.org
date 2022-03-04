@@ -6,7 +6,7 @@
 
 * GitHub username: DavidA123777
 
-* Notes:
+* Notes: I provided multiple test cases for each part and also included a working main that tests a few scenarios of inputs. 
 
 
 
